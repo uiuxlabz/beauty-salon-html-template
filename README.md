@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for beauty salons and spas. The design features a rose + charcoal palette, elegant serif typography, and a calm, sophisticated atmosphere that communicates luxury and care.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
